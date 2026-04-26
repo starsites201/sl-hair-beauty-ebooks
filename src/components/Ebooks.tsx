@@ -19,7 +19,7 @@ const ebooks = [
       "Tabela de tempo e proporção",
     ],
     forWho: "Cabeleireiras que querem dominar coloração com segurança.",
-    link: "#",
+    link: "https://hotmart.com/pt-br/marketplace/produtos/hagsxd-o-codigo-da-escala-p2wjq/J105558685V?sck=HOTMART_SITE&search=8f6dbd82-4d5c-45cb-91ef-c4c653ddf8e7&hotfeature=33",
   },
   {
     img: agendaImg,
@@ -36,7 +36,7 @@ const ebooks = [
       "Calendário de conteúdo pronto",
     ],
     forWho: "Profissionais que querem agenda lotada e clientes que pagam mais.",
-    link: "#",
+    link: "https://hotmart.com/pt-br/marketplace/produtos/hagsxd-o-codigo-da-escala-p2wjq/J105558685V?sck=HOTMART_SITE&search=8f6dbd82-4d5c-45cb-91ef-c4c653ddf8e7&hotfeature=33",
     featured: true,
   },
   {
@@ -54,7 +54,7 @@ const ebooks = [
       "Detalhes que justificam preço alto",
     ],
     forWho: "Quem quer atender melhor e cobrar com confiança.",
-    link: "#",
+    link: "https://hotmart.com/pt-br/marketplace/produtos/hagsxd-o-codigo-da-escala-p2wjq/J105558685V?sck=HOTMART_SITE&search=8f6dbd82-4d5c-45cb-91ef-c4c653ddf8e7&hotfeature=33",
   },
 ];
 
