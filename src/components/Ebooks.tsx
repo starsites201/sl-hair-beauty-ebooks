@@ -133,6 +133,8 @@ export const Ebooks = () => {
                   </div>
                   <a
                     href={e.link}
+                    target="_blank"
+                    rel="noopener noreferrer"
                     className="inline-flex items-center justify-center bg-foreground text-primary-foreground px-6 py-3 text-[11px] tracking-luxe uppercase hover:bg-gold transition-colors duration-500"
                   >
                     Comprar agora
